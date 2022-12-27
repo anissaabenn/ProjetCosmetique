@@ -1,0 +1,95 @@
+@media screen and (max-width: 900px){
+
+    .navbar-brand{
+        width: 15%;
+    }
+
+    .icone{
+        width: 15%;
+    }
+
+    .dropdown-menu{
+        width: 36.5%;
+    }
+    
+    .d-flex{
+        left: 35%;
+        margin-top: 3em;
+        flex-direction: column;
+    }
+
+    .img_accueil{
+        margin-top: 12em;
+        height: 23em;
+    }
+
+    .badge{
+        width: 10%;
+        height: 10%;
+    }
+
+    h1{
+        font-size: 6em;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 25px;
+        color: rgba(255, 255, 255, 0.509);
+    }
+
+    #goOffer {
+        width: 20%;
+        font-size: 1em;
+    }
+
+    h2{
+        letter-spacing: 15px;
+        font-size: 2em;
+        margin: 4% 7% 4% 7%;
+    }
+
+    .text1{
+        margin-top: 35%;
+    }
+    .text2{
+        margin-top: 10%;
+    }
+    .text3{
+        margin-top: 25%;
+    }
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1150px) and (min-width: 900px){
+    .d-flex{
+        left: 60%;
+    }
+
+    h1{
+        font-size: 8em;
+        letter-spacing: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1275px) and (min-width: 1150px){
+    .d-flex{
+        left: 65%;
+    }
+
+    h1{
+        font-size: 9em;
+        letter-spacing: 40px;
+    }
+}
